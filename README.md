@@ -15,9 +15,9 @@ However, note that this version can have many more than 2 players!
 
 ### Prerequisites
 
-Commandline Program - I used Bash :)
-gcc - if you wish to compile the code yourself
-nc - access to the Netcat commandline function
+* Commandline Program - I used Bash :)
+* gcc - if you wish to compile the code yourself
+* nc - access to the Netcat commandline function
 
 
 ## Built With
