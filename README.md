@@ -7,7 +7,7 @@ You will need to run the executable 'manscrv -p 30000' on a commandline program 
   
     nc localhost 30000
  
-After this the game will prompt you to insert your player name and it will notify you when it is your turn. To make a move, simply input a digit from 0-6 which will be the pit you select to move pebbles from. Have Fun!
+After this the game will prompt you to insert your player name to join the game. It will update you and everyone on the current state of the game and notify you when it is your turn. To make a move, simply input a digit from 0-6 which will be the pit you select to move pebbles from. Have Fun!
 
 If you are unaware of the rules of Mancala watch this video :)
 https://www.youtube.com/watch?v=b5UiPrjlPqM
