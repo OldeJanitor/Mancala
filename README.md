@@ -3,7 +3,7 @@ A school assignment done for CSC209 - Software Tools and Systems Programming. Th
 
 ## How to Play :)
 
-You will need to run the executable 'manscrv -p 30000' on a commandline program such as Bash (Ubuntu command line for Windows), this will start the Mancala Server on port 30000. To add players and play the game, in another commandline window you can connect to the server by using a Netcat command like so...
+You will need to run the executable 'manscrv -p 30000' on a commandline program such as Bash (Ubuntu command line for Windows), this will start the Mancala Server to listen on port 30000. To add players and play the game, in another commandline window you can connect to the server by using a Netcat command like so...
   
     nc localhost 30000
  
